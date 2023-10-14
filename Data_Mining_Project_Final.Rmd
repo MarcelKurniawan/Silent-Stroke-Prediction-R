@@ -1,6 +1,6 @@
 ---
 title: "Silent_Stroke_Predictive_Models"
-author: "Group2"
+author: "Marcel Kurniawan"
 date: "2023-05-09"
 output:
   html_document: default
